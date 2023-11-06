@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=c-mulge&label=Profile%20views&color=0e75b6&style=flat" alt="c-mulge" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@cmulge16" target="blank"><img src="https://img.shields.io/twitter/follow/@cmulge16?logo=twitter&style=for-the-badge" alt="@cmulge16" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@cmulge16" target="blank"><img src="https://img.shields.io/twitter/follow/cmulge16?logo=twitter&style=for-the-badge" alt="cmulge16" /></a> </p>
 
 - 🌱 I’m currently learning **Computer Science**
 
